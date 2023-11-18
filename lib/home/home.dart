@@ -139,7 +139,7 @@ class _HomeState extends State<Home55> {
                   child: Text("NEXT"),
                 ),
               ),
-              Text("thank you")
+             
             ],
           ),
           

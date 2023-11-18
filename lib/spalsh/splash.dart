@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:quiz/home/home.dart';
 
-import 'package:quiz/home/qq.dart';
+
 
 
 class splash extends StatefulWidget {
